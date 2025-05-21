@@ -3,7 +3,6 @@ import GameInstructions from './components/GameInstructions';
 import ColorBox from './components/ColorBox';
 import ColorOptions from './components/ColorOptions';
 import { GameStatus } from './components/GameStatus';
-// import BeginNewGame from './components/BeginGame';
 import { MyScores } from './components/MyScores';
 import NewGameButton from './components/NewGameButton';
 import './ColorGame.css';
